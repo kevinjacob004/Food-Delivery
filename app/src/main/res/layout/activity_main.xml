@@ -189,12 +189,12 @@
                 android:layout_width="wrap_content"
                 android:orientation="vertical"
                 android:layout_height="wrap_content">
-                <androidx.appcompat.widget.AppCompatButton
-                android:layout_marginLeft="10dp"
+                <ImageView
+                android:layout_marginLeft="45dp"
                     android:background="@drawable/baseline_fastfood_24"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
-                <TextView
+                <androidx.appcompat.widget.AppCompatButton
                     android:layout_marginLeft="15dp"
                     android:text="Instamart"
                     android:layout_width="wrap_content"
@@ -207,13 +207,13 @@
                 android:orientation="vertical"
                 android:layout_height="wrap_content">
 
-            <androidx.appcompat.widget.AppCompatButton
+            <ImageView
                 android:layout_marginLeft="50dp"
                 android:background="@drawable/baseline_dinner_dining_24"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
-                <TextView
-                    android:layout_marginLeft="75dp"
+                <androidx.appcompat.widget.AppCompatButton
+                    android:layout_marginLeft="25dp"
                     android:text="Food"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
@@ -226,13 +226,13 @@
                 android:orientation="vertical"
                 android:layout_height="wrap_content">
 
-            <androidx.appcompat.widget.AppCompatButton
+            <ImageView
                 android:layout_marginLeft="40dp"
                 android:background="@drawable/baseline_autorenew_24"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
-                <TextView
-                    android:layout_marginLeft="55dp"
+                <androidx.appcompat.widget.AppCompatButton
+                    android:layout_marginLeft="15dp"
                     android:text="Reorder"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
